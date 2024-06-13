@@ -1,0 +1,16 @@
+.outer {
+    position: absolute;
+    height: 500px;
+    width: 500px;
+    background-color: aqua;
+}
+.inner {
+    position: absolute;
+    height: 50px;
+    
+    right: 10px;
+    left: 10px;
+    top: 0;
+
+    background-color: rgb(47, 0, 255);
+}
